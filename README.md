@@ -122,4 +122,4 @@ insert into movies (year_film, year_ceremony, ceremony, category, `name`, film, 
 **R: Minha vó, Maria Cristina, uma das pessoas que mais respeito e admiro!
 A pessoa mais forte que conheço, sem dúvidas, depois de passar por tudo que passamos, ela ainda continua firme e forte, mesmo depois de perder a filha e o marido.
 Continua de cabeça erguida e ainda consegue dar conta de tudo!
-Minha vó merece tudo que há de bom nessa vida! Amo muito ela!
+Minha vó merece tudo que há de bom nessa vida! Amo muito ela!**
